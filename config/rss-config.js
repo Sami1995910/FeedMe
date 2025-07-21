@@ -14,9 +14,9 @@
 export const config = {
   sources: [
     {
-      name: "Hacker News 近期最佳",
-      url: "https://hnrss.org/best",
-      category: "科技资讯",
+      name: "الجزيرة",
+      url: "https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdff8b8cab9",
+      category: "اخبار",
     },
     {
       name: "Hacker News 历史每日前十",
