@@ -1,8 +1,9 @@
-name: 更新数据并部署
+name: aaaaa
+# For example, change to update once daily at midnight
 
 on:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 0 * * *'
   push:
     branches: [main, dev]
   workflow_dispatch:
